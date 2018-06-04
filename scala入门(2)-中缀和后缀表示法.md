@@ -1,9 +1,3 @@
-------
-title: scala入门(2)-中缀表示法和后缀表示法
-categories:
-- scala
-toc: true
-------
 ## 中缀表示法
 &emsp;&emsp;这两个语法规则都是针对方法（method）来说的，所以在开始，我们创建两个类，然后添加方法：
 ``` bash

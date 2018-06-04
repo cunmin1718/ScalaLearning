@@ -1,9 +1,3 @@
-------
-title: scala入门-偏应用函数
-categories:
-- scala
-toc: true
-------
 &emsp;&emsp;Scala 偏应用函数是一种表达式，你不需要提供函数需要的所有参数，只需要提供部分，或不提供所需参数。
 ```
 object Test {

@@ -1,9 +1,3 @@
-------
-title: scala入门-多行字符串stripMargin
-categories:
-- scala
-toc: true
-------
 问题描述：
     在Scala代码块中如何创建多行字符串，是否存在类似其他语言的“定界符”语法？
 解决方法：

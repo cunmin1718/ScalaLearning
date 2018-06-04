@@ -1,9 +1,3 @@
-------
-title: scala入门(6)-包对象和引用
-categories:
-- scala
-toc: true
-------
 ```
 /* 
  * scala中隐式引入了以下包： 

@@ -1,9 +1,3 @@
-------
-title: scala入门(3)-函数和闭包
-categories:
-- scala
-toc: true
-------
 ##  函数方法
 Scala函数定义具有以下形式 -
 **语法**

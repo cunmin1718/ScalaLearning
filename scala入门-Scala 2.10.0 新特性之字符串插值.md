@@ -1,9 +1,3 @@
-------
-title: scala入门-Scala 2.10.0 新特性之字符串插值
-categories:
-- scala
-toc: true
-------
 ### s 字符串插值器
 在任何字符串前加上s，就可以直接在串中使用变量了。
 ``` bash
