@@ -1,2 +1,4 @@
 # ScalaLearning
-  为了更好的学习和促进交流，也同时为了记录学习过程中遇到的问题，
+  记录学习scala过程中遇到的问题和学习使用到的代码。
+  博客地址：https://cunmin1718.github.io/blog/categories/scala/
+  参考书籍：scala编程.pdf
